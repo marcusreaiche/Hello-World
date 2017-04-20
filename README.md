@@ -15,4 +15,4 @@ Let's learn about some Emoji's!
 
 More Emoji's:
 
-:grin: :grinning: :wink: :yum: :kissing_heart: :relaxed: :hugging: :open_mouth:
+:grin: :grinning: :wink: :yum: :kissing_heart: :relaxed: :boy: :girl: :smiley_cat: :open_mouth:
