@@ -12,3 +12,7 @@ Hey,
 Let's learn about some Emoji's!
 
 :rofl: :+1: :joy:
+
+More Emoji's:
+
+:grin: :grinning: :wink: :yum: :kissing_heart: :relaxed: :hugging: :open_mouth:
